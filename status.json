@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T12:19:50Z",
+ "generated_at": "2026-09-28T12:46:58Z",
  "summary": {
   "listings": 2,
   "freshness": {
@@ -10,19 +10,31 @@
   },
   "problems": 2,
   "last_run": {
-   "run_id": 3,
-   "started_at": "2026-09-28T12:15:04Z",
-   "finished_at": "2026-09-28T12:19:50Z",
-   "tier": "priority",
+   "run_id": 4,
+   "started_at": "2026-09-28T12:46:57Z",
+   "finished_at": "2026-09-28T12:46:58Z",
+   "tier": "all",
    "platforms": "wb",
-   "n_ok": 0,
-   "n_error": 1,
+   "n_ok": 2,
+   "n_error": 0,
    "n_not_found": 0,
    "n_out_of_stock": 0,
    "n_captcha": 0
   }
  },
  "runs": [
+  {
+   "run_id": 4,
+   "started_at": "2026-09-28T12:46:57Z",
+   "finished_at": "2026-09-28T12:46:58Z",
+   "tier": "all",
+   "platforms": "wb",
+   "n_ok": 2,
+   "n_error": 0,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
   {
    "run_id": 3,
    "started_at": "2026-09-28T12:15:04Z",
@@ -62,7 +74,7 @@
  ],
  "problems": [
   {
-   "sku": "SKU-001",
+   "sku": "RHO-64",
    "platform": "wb",
    "owner": "ours",
    "platform_sku": "474107609",
@@ -71,12 +83,12 @@
    "web_checked_at": "2026-09-28T11:02:42Z",
    "web_error": "http 403",
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-28T12:19:50Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-28T12:46:57Z",
+   "seller_error": null
   },
   {
-   "sku": "SKU-002",
+   "sku": "SECH64",
    "platform": "wb",
    "owner": "ours",
    "platform_sku": "791055567",
@@ -85,14 +97,14 @@
    "web_checked_at": "2026-09-28T11:02:42Z",
    "web_error": "http 403",
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-28T12:12:43Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-28T12:46:57Z",
+   "seller_error": null
   }
  ],
  "listings": [
   {
-   "sku": "SKU-001",
+   "sku": "RHO-64",
    "platform": "wb",
    "owner": "ours",
    "platform_sku": "474107609",
@@ -101,12 +113,12 @@
    "web_checked_at": "2026-09-28T11:02:42Z",
    "web_error": "http 403",
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-28T12:19:50Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-28T12:46:57Z",
+   "seller_error": null
   },
   {
-   "sku": "SKU-002",
+   "sku": "SECH64",
    "platform": "wb",
    "owner": "ours",
    "platform_sku": "791055567",
@@ -115,9 +127,9 @@
    "web_checked_at": "2026-09-28T11:02:42Z",
    "web_error": "http 403",
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-28T12:12:43Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-28T12:46:57Z",
+   "seller_error": null
   }
  ]
 }

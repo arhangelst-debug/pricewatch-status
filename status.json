@@ -1,0 +1,99 @@
+{
+ "generated_at": "2026-09-28T11:02:42Z",
+ "summary": {
+  "listings": 2,
+  "freshness": {
+   "свежо": 2,
+   "устарело": 0,
+   "критично": 0,
+   "нет данных": 0
+  },
+  "problems": 2,
+  "last_run": {
+   "run_id": 1,
+   "started_at": "2026-09-28T11:02:42Z",
+   "finished_at": "2026-09-28T11:02:42Z",
+   "tier": "all",
+   "platforms": "wb",
+   "n_ok": 0,
+   "n_error": 0,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 2
+  }
+ },
+ "runs": [
+  {
+   "run_id": 1,
+   "started_at": "2026-09-28T11:02:42Z",
+   "finished_at": "2026-09-28T11:02:42Z",
+   "tier": "all",
+   "platforms": "wb",
+   "n_ok": 0,
+   "n_error": 0,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 2
+  }
+ ],
+ "problems": [
+  {
+   "sku": "SKU-001",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "474107609",
+   "region": "msk",
+   "web_status": "captcha",
+   "web_checked_at": "2026-09-28T11:02:42Z",
+   "web_error": "http 403",
+   "freshness": "свежо",
+   "seller_status": null,
+   "seller_checked_at": null,
+   "seller_error": null
+  },
+  {
+   "sku": "SKU-002",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "791055567",
+   "region": "msk",
+   "web_status": "captcha",
+   "web_checked_at": "2026-09-28T11:02:42Z",
+   "web_error": "http 403",
+   "freshness": "свежо",
+   "seller_status": null,
+   "seller_checked_at": null,
+   "seller_error": null
+  }
+ ],
+ "listings": [
+  {
+   "sku": "SKU-001",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "474107609",
+   "region": "msk",
+   "web_status": "captcha",
+   "web_checked_at": "2026-09-28T11:02:42Z",
+   "web_error": "http 403",
+   "freshness": "свежо",
+   "seller_status": null,
+   "seller_checked_at": null,
+   "seller_error": null
+  },
+  {
+   "sku": "SKU-002",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "791055567",
+   "region": "msk",
+   "web_status": "captcha",
+   "web_checked_at": "2026-09-28T11:02:42Z",
+   "web_error": "http 403",
+   "freshness": "свежо",
+   "seller_status": null,
+   "seller_checked_at": null,
+   "seller_error": null
+  }
+ ]
+}

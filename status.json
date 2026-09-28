@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T12:12:43Z",
+ "generated_at": "2026-09-28T12:19:50Z",
  "summary": {
   "listings": 2,
   "freshness": {
@@ -10,19 +10,31 @@
   },
   "problems": 2,
   "last_run": {
-   "run_id": 2,
-   "started_at": "2026-09-28T12:12:43Z",
-   "finished_at": "2026-09-28T12:12:43Z",
-   "tier": "all",
+   "run_id": 3,
+   "started_at": "2026-09-28T12:15:04Z",
+   "finished_at": "2026-09-28T12:19:50Z",
+   "tier": "priority",
    "platforms": "wb",
    "n_ok": 0,
-   "n_error": 2,
+   "n_error": 1,
    "n_not_found": 0,
    "n_out_of_stock": 0,
    "n_captcha": 0
   }
  },
  "runs": [
+  {
+   "run_id": 3,
+   "started_at": "2026-09-28T12:15:04Z",
+   "finished_at": "2026-09-28T12:19:50Z",
+   "tier": "priority",
+   "platforms": "wb",
+   "n_ok": 0,
+   "n_error": 1,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
   {
    "run_id": 2,
    "started_at": "2026-09-28T12:12:43Z",
@@ -60,7 +72,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-28T12:12:43Z",
+   "seller_checked_at": "2026-09-28T12:19:50Z",
    "seller_error": "collector crashed"
   },
   {
@@ -90,7 +102,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-28T12:12:43Z",
+   "seller_checked_at": "2026-09-28T12:19:50Z",
    "seller_error": "collector crashed"
   },
   {

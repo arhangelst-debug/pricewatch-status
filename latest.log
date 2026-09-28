@@ -2,3 +2,27 @@
 11 passed in 0.24s
 2026-09-28 15:00:05 pull: b832d4b78d96b7bdc436b94136aedde65970e037 -> 7c80f344a61bfa5e33c8e77549f98a0eafa26e12
 13 passed in 0.23s
+2026-09-28 15:15:03 pull: 7c80f344a61bfa5e33c8e77549f98a0eafa26e12 -> c591435dff527db3e35dbbcd56d3ff4bb9a11dcf
+14 passed in 0.22s
+15:15:04 INFO    pricewatch.registry: Справочники (csv): товаров 2, листингов 2, долей 6
+15:15:04 INFO    pricewatch: wb_web: выключен в config.yaml — пропуск
+15:15:04 INFO    pricewatch.wb_seller: старт: листингов 1, регионы ['msk']
+15:15:05 INFO    pricewatch.wb_seller: 429 от WB, жду 71 с (попытка 1/4)
+15:16:16 INFO    pricewatch.wb_seller: 429 от WB, жду 71 с (попытка 2/4)
+15:17:28 INFO    pricewatch.wb_seller: 429 от WB, жду 71 с (попытка 3/4)
+15:18:39 INFO    pricewatch.wb_seller: 429 от WB, жду 71 с (попытка 4/4)
+15:19:50 ERROR   pricewatch.wb_seller: коллектор упал: prices api: http 429: {"status":429,"statusText":"Too Many Requests","title":"Too Many Requests","detail":"rate limit exceeded, retry after the period specified in the X-RateLimit-Retry header","requestId":"1a8c4ca522831d7c302a1857e978ba9a","origin":"ag-discountsandprices","timestamp":"2026-09-28T12:18:39Z"}
+Traceback (most recent call last):
+  File "/opt/pricewatch/pricewatch/collectors/base.py", line 40, in run
+    observations = self.collect(listings, regions)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/pricewatch/pricewatch/collectors/wb_seller.py", line 148, in collect
+    prices = self.fetch_prices(client)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/pricewatch/pricewatch/collectors/wb_seller.py", line 111, in fetch_prices
+    raise RuntimeError(f"prices api: http {r.status_code}: {r.text[:300]}")
+RuntimeError: prices api: http 429: {"status":429,"statusText":"Too Many Requests","title":"Too Many Requests","detail":"rate limit exceeded, retry after the period specified in the X-RateLimit-Retry header","requestId":"1a8c4ca522831d7c302a1857e978ba9a","origin":"ag-discountsandprices","timestamp":"2026-09-28T12:18:39Z"}
+15:19:50 INFO    pricewatch.wb_seller: готово: 1 наблюдений
+15:19:50 INFO    pricewatch: wb_seller: ok 0/1, out_of_stock 0, not_found 0, error 1, captcha 0
+15:19:50 INFO    pricewatch: прогон #3: ok 0/1, out_of_stock 0, not_found 0, error 1, captcha 0
+15:19:50 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)

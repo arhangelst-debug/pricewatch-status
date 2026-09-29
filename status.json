@@ -1,28 +1,64 @@
 {
- "generated_at": "2026-09-29T11:20:23Z",
+ "generated_at": "2026-09-29T12:15:04Z",
  "summary": {
-  "listings": 81,
+  "listings": 80,
   "freshness": {
-   "свежо": 81,
+   "свежо": 80,
    "устарело": 0,
    "критично": 0,
    "нет данных": 0
   },
-  "problems": 19,
+  "problems": 22,
   "last_run": {
-   "run_id": 10,
-   "started_at": "2026-09-29T11:16:38Z",
-   "finished_at": "2026-09-29T11:20:23Z",
-   "tier": "all",
-   "platforms": "ozon,site,wb,ym",
-   "n_ok": 62,
-   "n_error": 16,
-   "n_not_found": 3,
+   "run_id": 13,
+   "started_at": "2026-09-29T12:15:03Z",
+   "finished_at": "2026-09-29T12:15:04Z",
+   "tier": "priority",
+   "platforms": "wb",
+   "n_ok": 2,
+   "n_error": 0,
+   "n_not_found": 0,
    "n_out_of_stock": 0,
    "n_captcha": 0
   }
  },
  "runs": [
+  {
+   "run_id": 13,
+   "started_at": "2026-09-29T12:15:03Z",
+   "finished_at": "2026-09-29T12:15:04Z",
+   "tier": "priority",
+   "platforms": "wb",
+   "n_ok": 2,
+   "n_error": 0,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
+  {
+   "run_id": 12,
+   "started_at": "2026-09-29T11:41:41Z",
+   "finished_at": "2026-09-29T11:46:43Z",
+   "tier": "all",
+   "platforms": "ozon,site,wb,ym",
+   "n_ok": 56,
+   "n_error": 24,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
+  {
+   "run_id": 11,
+   "started_at": "2026-09-29T11:35:07Z",
+   "finished_at": "2026-09-29T11:35:24Z",
+   "tier": "all",
+   "platforms": "ozon,site,wb,ym",
+   "n_ok": 64,
+   "n_error": 16,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
   {
    "run_id": 10,
    "started_at": "2026-09-29T11:16:38Z",
@@ -106,309 +142,315 @@
    "n_not_found": 0,
    "n_out_of_stock": 0,
    "n_captcha": 0
-  },
-  {
-   "run_id": 3,
-   "started_at": "2026-09-28T12:15:04Z",
-   "finished_at": "2026-09-28T12:19:50Z",
-   "tier": "priority",
-   "platforms": "wb",
-   "n_ok": 0,
-   "n_error": 1,
-   "n_not_found": 0,
-   "n_out_of_stock": 0,
-   "n_captcha": 0
-  },
-  {
-   "run_id": 2,
-   "started_at": "2026-09-28T12:12:43Z",
-   "finished_at": "2026-09-28T12:12:43Z",
-   "tier": "all",
-   "platforms": "wb",
-   "n_ok": 0,
-   "n_error": 2,
-   "n_not_found": 0,
-   "n_out_of_stock": 0,
-   "n_captcha": 0
-  },
-  {
-   "run_id": 1,
-   "started_at": "2026-09-28T11:02:42Z",
-   "finished_at": "2026-09-28T11:02:42Z",
-   "tier": "all",
-   "platforms": "wb",
-   "n_ok": 0,
-   "n_error": 0,
-   "n_not_found": 0,
-   "n_out_of_stock": 0,
-   "n_captcha": 2
   }
  ],
  "problems": [
   {
-   "sku": "Родиола флакон",
-   "platform": "ym",
-   "owner": "ours",
-   "platform_sku": "1616",
-   "region": "msk",
-   "web_status": null,
-   "web_checked_at": null,
-   "web_error": null,
-   "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
-  },
-  {
-   "sku": "SECH64",
-   "platform": "ym",
-   "owner": "ours",
-   "platform_sku": "SECH2",
-   "region": "msk",
-   "web_status": null,
-   "web_checked_at": null,
-   "web_error": null,
-   "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
-  },
-  {
    "sku": "Сеченов",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "2727",
+   "platform_sku": "474107590",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Лецитин",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "7777",
+   "platform_sku": "474107592",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Теанин",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "1010",
+   "platform_sku": "474107593",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Ежовик флакон 64",
-   "platform": "site",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": null,
-   "region": "msk",
-   "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:17:29Z",
-   "web_error": "на сайте нет товара «Усилитель функций м",
-   "freshness": "свежо",
-   "seller_status": null,
-   "seller_checked_at": null,
-   "seller_error": null
-  },
-  {
-   "sku": "Ежовик флакон 64",
-   "platform": "ym",
-   "owner": "ours",
-   "platform_sku": "2222",
+   "platform_sku": "474107597",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
+  },
+  {
+   "sku": "Ежовик дой пак 64",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "474107598",
+   "region": "msk",
+   "web_status": null,
+   "web_checked_at": null,
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Ежовик флакон 32",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "1111",
+   "platform_sku": "474107599",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Бамбук флакон",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "1313",
+   "platform_sku": "474107602",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Бамбук премиум",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "1414",
+   "platform_sku": "474107603",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
+  },
+  {
+   "sku": "Активатор дой пак 64",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "474107605",
+   "region": "msk",
+   "web_status": null,
+   "web_checked_at": null,
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Активатор флакон 64",
-   "platform": "site",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": null,
-   "region": "msk",
-   "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:17:29Z",
-   "web_error": "на сайте нет товара «Активатор иммунитет",
-   "freshness": "свежо",
-   "seller_status": null,
-   "seller_checked_at": null,
-   "seller_error": null
-  },
-  {
-   "sku": "Активатор флакон 64",
-   "platform": "ym",
-   "owner": "ours",
-   "platform_sku": "6666",
+   "platform_sku": "474107606",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Активатор флакон 32",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "8080",
+   "platform_sku": "474107608",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Родиола премиум",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "1717",
+   "platform_sku": "474107610",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Какао 100",
-   "platform": "site",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": null,
-   "region": "msk",
-   "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:17:29Z",
-   "web_error": "на сайте нет товара «Функциональный кака",
-   "freshness": "свежо",
-   "seller_status": null,
-   "seller_checked_at": null,
-   "seller_error": null
-  },
-  {
-   "sku": "Какао 100",
-   "platform": "ym",
-   "owner": "ours",
-   "platform_sku": "2626",
+   "platform_sku": "474738039",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "Шоколад 32",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "2323",
+   "platform_sku": "474738040",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "wb1uubkpad",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "6969",
+   "platform_sku": "600815658",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   },
   {
    "sku": "wb15rdcxqd",
-   "platform": "ym",
+   "platform": "wb",
    "owner": "ours",
-   "platform_sku": "1128",
+   "platform_sku": "608830638",
    "region": "msk",
    "web_status": null,
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
+  },
+  {
+   "sku": "2HWF60",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "712380284",
+   "region": "msk",
+   "web_status": null,
+   "web_checked_at": null,
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
+  },
+  {
+   "sku": "8AON30-4",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "714243366",
+   "region": "msk",
+   "web_status": null,
+   "web_checked_at": null,
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
+  },
+  {
+   "sku": "7MRS90",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "714247675",
+   "region": "msk",
+   "web_status": null,
+   "web_checked_at": null,
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
+  },
+  {
+   "sku": "4VMBI60",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "714253771",
+   "region": "msk",
+   "web_status": null,
+   "web_checked_at": null,
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
+  },
+  {
+   "sku": "9VWA30-5",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "714302201",
+   "region": "msk",
+   "web_status": null,
+   "web_checked_at": null,
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
+  },
+  {
+   "sku": "2288",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "1244354192",
+   "region": "msk",
+   "web_status": null,
+   "web_checked_at": null,
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
    "seller_error": "collector crashed"
   }
  ],
@@ -424,7 +466,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -434,7 +476,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -455,7 +497,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
+   "seller_checked_at": "2026-09-29T12:15:03Z",
    "seller_error": null
   },
   {
@@ -468,9 +510,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "SECH64",
@@ -483,7 +525,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -493,7 +535,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -514,7 +556,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
+   "seller_checked_at": "2026-09-29T12:15:03Z",
    "seller_error": null
   },
   {
@@ -527,9 +569,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Сеченов",
@@ -542,7 +584,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -552,7 +594,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -572,9 +614,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Сеченов",
@@ -586,9 +628,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Лецитин",
@@ -601,7 +643,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -611,7 +653,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -631,9 +673,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Лецитин",
@@ -645,9 +687,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Теанин",
@@ -660,7 +702,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -670,7 +712,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -690,9 +732,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Теанин",
@@ -704,9 +746,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Ежовик флакон 64",
@@ -719,7 +761,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -728,13 +770,16 @@
    "owner": "ours",
    "platform_sku": null,
    "region": "msk",
-   "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:17:29Z",
-   "web_error": "на сайте нет товара «Усилитель функций м",
+   "web_status": "ok",
+   "web_checked_at": "2026-09-29T11:41:56Z",
+   "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
    "seller_checked_at": null,
-   "seller_error": null
+   "seller_error": null,
+   "price_main": 1950.0,
+   "price_card": null,
+   "in_stock": null
   },
   {
    "sku": "Ежовик флакон 64",
@@ -746,9 +791,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Ежовик флакон 64",
@@ -760,9 +805,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Ежовик дой пак 64",
@@ -775,7 +820,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -788,9 +833,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Ежовик флакон 32",
@@ -803,7 +848,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -813,7 +858,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -833,9 +878,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Ежовик флакон 32",
@@ -847,9 +892,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Бамбук флакон",
@@ -862,7 +907,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -872,7 +917,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -892,9 +937,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Бамбук флакон",
@@ -906,9 +951,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Бамбук премиум",
@@ -920,9 +965,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Бамбук премиум",
@@ -934,9 +979,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Активатор дой пак 64",
@@ -949,7 +994,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -962,9 +1007,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Активатор флакон 64",
@@ -977,7 +1022,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -986,13 +1031,16 @@
    "owner": "ours",
    "platform_sku": null,
    "region": "msk",
-   "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:17:29Z",
-   "web_error": "на сайте нет товара «Активатор иммунитет",
+   "web_status": "ok",
+   "web_checked_at": "2026-09-29T11:41:56Z",
+   "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
    "seller_checked_at": null,
-   "seller_error": null
+   "seller_error": null,
+   "price_main": 1900.0,
+   "price_card": null,
+   "in_stock": null
   },
   {
    "sku": "Активатор флакон 64",
@@ -1004,9 +1052,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Активатор флакон 64",
@@ -1018,9 +1066,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Активатор флакон 32",
@@ -1033,7 +1081,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1043,7 +1091,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1063,9 +1111,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Активатор флакон 32",
@@ -1077,9 +1125,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Родиола премиум",
@@ -1091,9 +1139,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Родиола премиум",
@@ -1105,9 +1153,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Какао 100",
@@ -1120,21 +1168,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
-   "seller_error": null
-  },
-  {
-   "sku": "Какао 100",
-   "platform": "site",
-   "owner": "ours",
-   "platform_sku": null,
-   "region": "msk",
-   "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:17:29Z",
-   "web_error": "на сайте нет товара «Функциональный кака",
-   "freshness": "свежо",
-   "seller_status": null,
-   "seller_checked_at": null,
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1147,9 +1181,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Какао 100",
@@ -1161,9 +1195,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "Шоколад 32",
@@ -1176,7 +1210,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1186,7 +1220,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1206,9 +1240,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "Шоколад 32",
@@ -1220,9 +1254,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "wb1uubkpad",
@@ -1235,7 +1269,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1245,7 +1279,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1265,9 +1299,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "wb1uubkpad",
@@ -1279,9 +1313,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "wb15rdcxqd",
@@ -1294,7 +1328,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1304,7 +1338,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1324,9 +1358,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "wb15rdcxqd",
@@ -1338,9 +1372,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:20:23Z",
-   "seller_error": "collector crashed"
+   "seller_status": "ok",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": null
   },
   {
    "sku": "2HWF60",
@@ -1353,7 +1387,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1363,7 +1397,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1383,9 +1417,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "8AON30-4",
@@ -1398,7 +1432,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1408,7 +1442,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1428,9 +1462,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "7MRS90",
@@ -1443,7 +1477,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1453,7 +1487,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1473,9 +1507,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "4VMBI60",
@@ -1488,7 +1522,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1498,7 +1532,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1518,9 +1552,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "9VWA30-5",
@@ -1533,7 +1567,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1543,7 +1577,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:17:29Z",
+   "web_checked_at": "2026-09-29T11:41:56Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1563,9 +1597,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   },
   {
    "sku": "2288",
@@ -1578,7 +1612,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:16:38Z",
+   "seller_checked_at": "2026-09-29T11:41:41Z",
    "seller_error": null
   },
   {
@@ -1591,9 +1625,9 @@
    "web_checked_at": null,
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:17:29Z",
-   "seller_error": null
+   "seller_status": "error",
+   "seller_checked_at": "2026-09-29T11:46:42Z",
+   "seller_error": "collector crashed"
   }
  ]
 }

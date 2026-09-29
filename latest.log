@@ -80,3 +80,10 @@ RuntimeError: prices api: http 429: {"status":429,"statusText":"Too Many Request
 12:15:03 INFO    pricewatch: wb_seller: ok 1/1, out_of_stock 0, not_found 0, error 0, captcha 0
 12:15:03 INFO    pricewatch: прогон #8: ok 1/1, out_of_stock 0, not_found 0, error 0, captcha 0
 12:15:03 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
+12:15:03 INFO    pricewatch.status: статус экспортирован в /opt/pricewatch/data/public (33 листингов, 0 проблем)
+2026-09-29 13:10:03 pull: d777f635662207a3b7bb4e0ba2a58d9dfd4f8420 -> 7b41a8c86efef8231fa6c357a0a9af9d23793262
+23 passed in 0.39s
+2026-09-29 13:30:03 pull: 7b41a8c86efef8231fa6c357a0a9af9d23793262 -> 1dafb951297db425ba608c7cf9481545bb6e1b7b
+23 passed in 0.35s
+2026-09-29 13:40:03 pull: 1dafb951297db425ba608c7cf9481545bb6e1b7b -> fb9d50a9bdf669d58f3ba11f630baf8b9b0c8d71
+25 passed in 0.49s

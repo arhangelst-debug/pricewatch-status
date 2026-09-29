@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T11:05:21Z",
+ "generated_at": "2026-09-29T11:20:23Z",
  "summary": {
   "listings": 81,
   "freshness": {
@@ -10,9 +10,9 @@
   },
   "problems": 19,
   "last_run": {
-   "run_id": 9,
-   "started_at": "2026-09-29T11:04:58Z",
-   "finished_at": "2026-09-29T11:05:21Z",
+   "run_id": 10,
+   "started_at": "2026-09-29T11:16:38Z",
+   "finished_at": "2026-09-29T11:20:23Z",
    "tier": "all",
    "platforms": "ozon,site,wb,ym",
    "n_ok": 62,
@@ -23,6 +23,18 @@
   }
  },
  "runs": [
+  {
+   "run_id": 10,
+   "started_at": "2026-09-29T11:16:38Z",
+   "finished_at": "2026-09-29T11:20:23Z",
+   "tier": "all",
+   "platforms": "ozon,site,wb,ym",
+   "n_ok": 62,
+   "n_error": 16,
+   "n_not_found": 3,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
   {
    "run_id": 9,
    "started_at": "2026-09-29T11:04:58Z",
@@ -144,7 +156,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -158,7 +170,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -172,7 +184,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -186,7 +198,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -200,7 +212,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -210,7 +222,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": "на сайте нет товара «Усилитель функций м",
    "freshness": "свежо",
    "seller_status": null,
@@ -228,7 +240,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -242,7 +254,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -256,7 +268,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -270,7 +282,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -280,7 +292,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": "на сайте нет товара «Активатор иммунитет",
    "freshness": "свежо",
    "seller_status": null,
@@ -298,7 +310,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -312,7 +324,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -326,7 +338,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -336,7 +348,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": "на сайте нет товара «Функциональный кака",
    "freshness": "свежо",
    "seller_status": null,
@@ -354,7 +366,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -368,7 +380,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -382,7 +394,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -396,7 +408,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   }
  ],
@@ -412,7 +424,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -422,7 +434,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -443,7 +455,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -457,7 +469,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -471,7 +483,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -481,7 +493,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -502,7 +514,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -516,7 +528,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -530,7 +542,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -540,7 +552,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -561,7 +573,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -575,7 +587,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -589,7 +601,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -599,7 +611,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -620,7 +632,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -634,7 +646,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -648,7 +660,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -658,7 +670,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -679,7 +691,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -693,7 +705,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -707,7 +719,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -717,7 +729,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": "на сайте нет товара «Усилитель функций м",
    "freshness": "свежо",
    "seller_status": null,
@@ -735,7 +747,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -749,7 +761,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -763,7 +775,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -777,7 +789,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -791,7 +803,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -801,7 +813,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -822,7 +834,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -836,7 +848,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -850,7 +862,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -860,7 +872,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -881,7 +893,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -895,7 +907,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -909,7 +921,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -923,7 +935,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -937,7 +949,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -951,7 +963,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -965,7 +977,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -975,7 +987,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": "на сайте нет товара «Активатор иммунитет",
    "freshness": "свежо",
    "seller_status": null,
@@ -993,7 +1005,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1007,7 +1019,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -1021,7 +1033,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1031,7 +1043,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1052,7 +1064,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1066,7 +1078,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -1080,7 +1092,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1094,7 +1106,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -1108,7 +1120,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1118,7 +1130,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "not_found",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": "на сайте нет товара «Функциональный кака",
    "freshness": "свежо",
    "seller_status": null,
@@ -1136,7 +1148,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1150,7 +1162,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -1164,7 +1176,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1174,7 +1186,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1195,7 +1207,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1209,7 +1221,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -1223,7 +1235,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1233,7 +1245,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1254,7 +1266,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1268,7 +1280,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -1282,7 +1294,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1292,7 +1304,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1313,7 +1325,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1327,7 +1339,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "error",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:20:23Z",
    "seller_error": "collector crashed"
   },
   {
@@ -1341,7 +1353,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1351,7 +1363,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1372,7 +1384,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1386,7 +1398,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1396,7 +1408,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1417,7 +1429,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1431,7 +1443,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1441,7 +1453,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1462,7 +1474,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1476,7 +1488,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1486,7 +1498,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1507,7 +1519,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1521,7 +1533,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1531,7 +1543,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-09-29T11:05:21Z",
+   "web_checked_at": "2026-09-29T11:17:29Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1552,7 +1564,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   },
   {
@@ -1566,7 +1578,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:04:58Z",
+   "seller_checked_at": "2026-09-29T11:16:38Z",
    "seller_error": null
   },
   {
@@ -1580,7 +1592,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-09-29T11:05:21Z",
+   "seller_checked_at": "2026-09-29T11:17:29Z",
    "seller_error": null
   }
  ]

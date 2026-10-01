@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T12:15:03Z",
+ "generated_at": "2026-10-01T15:15:19Z",
  "summary": {
   "listings": 80,
   "freshness": {
@@ -10,12 +10,12 @@
   },
   "problems": 0,
   "last_run": {
-   "run_id": 23,
-   "started_at": "2026-10-01T12:15:03Z",
-   "finished_at": "2026-10-01T12:15:03Z",
-   "tier": "priority",
-   "platforms": "wb",
-   "n_ok": 2,
+   "run_id": 24,
+   "started_at": "2026-10-01T15:15:03Z",
+   "finished_at": "2026-10-01T15:15:19Z",
+   "tier": "all",
+   "platforms": "ozon,site,wb,ym",
+   "n_ok": 80,
    "n_error": 0,
    "n_not_found": 0,
    "n_out_of_stock": 0,
@@ -23,6 +23,18 @@
   }
  },
  "runs": [
+  {
+   "run_id": 24,
+   "started_at": "2026-10-01T15:15:03Z",
+   "finished_at": "2026-10-01T15:15:19Z",
+   "tier": "all",
+   "platforms": "ozon,site,wb,ym",
+   "n_ok": 80,
+   "n_error": 0,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
   {
    "run_id": 23,
    "started_at": "2026-10-01T12:15:03Z",
@@ -130,18 +142,6 @@
    "n_not_found": 0,
    "n_out_of_stock": 0,
    "n_captcha": 0
-  },
-  {
-   "run_id": 14,
-   "started_at": "2026-09-29T15:15:04Z",
-   "finished_at": "2026-09-29T15:15:18Z",
-   "tier": "all",
-   "platforms": "ozon,site,wb,ym",
-   "n_ok": 80,
-   "n_error": 0,
-   "n_not_found": 0,
-   "n_out_of_stock": 0,
-   "n_captcha": 0
   }
  ],
  "problems": [],
@@ -157,7 +157,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -167,7 +167,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -188,7 +188,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T12:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -202,7 +202,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -216,7 +216,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -226,7 +226,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -247,7 +247,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T12:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -261,7 +261,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -275,7 +275,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -285,7 +285,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -306,7 +306,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -320,7 +320,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -334,7 +334,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -344,7 +344,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -365,7 +365,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -379,7 +379,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -393,7 +393,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -403,7 +403,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -424,7 +424,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -438,7 +438,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -452,7 +452,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -462,7 +462,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -483,7 +483,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -497,7 +497,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -511,7 +511,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -525,7 +525,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -539,7 +539,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -549,7 +549,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -570,7 +570,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -584,7 +584,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -598,7 +598,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -608,7 +608,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -629,7 +629,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -643,7 +643,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -657,7 +657,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -671,7 +671,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -685,7 +685,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -699,7 +699,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -713,7 +713,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -723,7 +723,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -744,7 +744,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -758,7 +758,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -772,7 +772,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -782,7 +782,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -803,7 +803,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -817,7 +817,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -831,7 +831,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -845,7 +845,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -859,7 +859,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -873,7 +873,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -887,7 +887,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -901,7 +901,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -911,7 +911,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -932,7 +932,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -946,7 +946,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -960,7 +960,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -970,7 +970,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -991,7 +991,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -1005,7 +1005,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -1019,7 +1019,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -1029,7 +1029,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1050,7 +1050,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -1064,7 +1064,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -1078,7 +1078,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -1088,7 +1088,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1109,7 +1109,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -1123,7 +1123,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -1133,7 +1133,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1154,7 +1154,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -1168,7 +1168,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -1178,7 +1178,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1199,7 +1199,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -1213,7 +1213,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -1223,7 +1223,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1244,7 +1244,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -1258,7 +1258,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -1268,7 +1268,7 @@
    "platform_sku": null,
    "region": "msk",
    "web_status": "ok",
-   "web_checked_at": "2026-10-01T03:15:17Z",
+   "web_checked_at": "2026-10-01T15:15:18Z",
    "web_error": null,
    "freshness": "свежо",
    "seller_status": null,
@@ -1289,7 +1289,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   },
   {
@@ -1303,7 +1303,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:03Z",
+   "seller_checked_at": "2026-10-01T15:15:03Z",
    "seller_error": null
   },
   {
@@ -1317,7 +1317,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-01T03:15:17Z",
+   "seller_checked_at": "2026-10-01T15:15:18Z",
    "seller_error": null
   }
  ]

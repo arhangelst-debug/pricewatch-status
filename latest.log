@@ -1,12 +1,3 @@
-15:19:50 INFO    pricewatch: прогон #3: ok 0/1, out_of_stock 0, not_found 0, error 1, captcha 0
-15:19:50 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
-15:19:50 INFO    pricewatch.status: статус экспортирован в /opt/pricewatch/data/public (2 листингов, 2 проблем)
-2026-09-28 15:30:04 pull: c591435dff527db3e35dbbcd56d3ff4bb9a11dcf -> a31f94ea5122c71c6162f998cb651c66394bf20c
-17 passed in 0.30s
-2026-09-28 15:50:05 pull: a8d0ca8f9db0e7dd48dd88bec47179265a2c5195 -> bacd79e525b5ce51845df53c4abe1128fa4341fd
-18 passed in 0.31s
-2026-09-28 16:00:11 pull: bacd79e525b5ce51845df53c4abe1128fa4341fd -> 3846897028b045be7301e6683d0517589f634f32
-18 passed in 0.28s
 2026-09-28 16:20:05 pull: 3846897028b045be7301e6683d0517589f634f32 -> e7ee5d3d51ed4b245902b74d8aa7299a8ec8a388
 19 passed in 0.32s
 2026-09-28 16:30:04 pull: e7ee5d3d51ed4b245902b74d8aa7299a8ec8a388 -> 0edade9e36b3cb5ef7f3e2b9e6e29aeeca366ce4
@@ -198,3 +189,12 @@
 09:15:03 INFO    pricewatch: wb_seller: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
 09:15:03 INFO    pricewatch: прогон #21: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
 09:15:03 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
+09:15:03 INFO    pricewatch.status: статус экспортирован в /opt/pricewatch/data/public (80 листингов, 0 проблем)
+12:15:03 INFO    pricewatch.registry: Справочники (csv): товаров 24, листингов 80, долей 6
+12:15:03 INFO    pricewatch: wb_web: выключен в config.yaml — пропуск
+12:15:03 INFO    pricewatch.wb_seller: старт: листингов 2, регионы ['msk']
+12:15:03 INFO    pricewatch.wb_seller: в кабинете вне базы знаний: 4 (Ежовик премиум, Активатор премиум, Шоколад плитки, Какао 500)
+12:15:03 INFO    pricewatch.wb_seller: готово: 2 наблюдений
+12:15:03 INFO    pricewatch: wb_seller: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
+12:15:03 INFO    pricewatch: прогон #22: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
+12:15:03 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)

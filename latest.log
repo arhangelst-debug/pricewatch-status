@@ -1,25 +1,3 @@
-06:15:19 INFO    pricewatch: ym_web: коллектора нет — пропуск
-06:15:19 INFO    pricewatch.ym_seller: старт: листингов 16, регионы ['msk']
-06:15:19 INFO    pricewatch.ym_seller: готово: 16 наблюдений
-06:15:19 INFO    pricewatch: ym_seller: ok 16/16, out_of_stock 0, not_found 0, error 0, captcha 0
-06:15:19 INFO    pricewatch: прогон #25: ok 80/80, out_of_stock 0, not_found 0, error 0, captcha 0
-06:15:19 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
-06:15:19 INFO    pricewatch.status: статус экспортирован в /opt/pricewatch/data/public (80 листингов, 0 проблем)
-06:15:23 INFO    pricewatch.telegram: telegram: 1 сообщ. отправлено через GitHub Actions (rich)
-09:15:03 INFO    pricewatch.registry: Справочники (csv): товаров 24, листингов 80, долей 6
-09:15:03 INFO    pricewatch: wb_web: выключен в config.yaml — пропуск
-09:15:03 INFO    pricewatch.wb_seller: старт: листингов 2, регионы ['msk']
-09:15:04 INFO    pricewatch.wb_seller: в кабинете вне базы знаний: 4 (Ежовик премиум, Активатор премиум, Шоколад плитки, Какао 500)
-09:15:04 INFO    pricewatch.wb_seller: готово: 2 наблюдений
-09:15:04 INFO    pricewatch: wb_seller: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
-09:15:04 INFO    pricewatch: прогон #26: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
-09:15:04 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
-09:15:04 INFO    pricewatch.status: статус экспортирован в /opt/pricewatch/data/public (80 листингов, 0 проблем)
-12:15:03 INFO    pricewatch.registry: Справочники (csv): товаров 24, листингов 80, долей 6
-12:15:03 INFO    pricewatch: wb_web: выключен в config.yaml — пропуск
-12:15:03 INFO    pricewatch.wb_seller: старт: листингов 2, регионы ['msk']
-12:15:03 INFO    pricewatch.wb_seller: в кабинете вне базы знаний: 4 (Ежовик премиум, Активатор премиум, Шоколад плитки, Какао 500)
-12:15:03 INFO    pricewatch.wb_seller: готово: 2 наблюдений
 12:15:03 INFO    pricewatch: wb_seller: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
 12:15:03 INFO    pricewatch: прогон #27: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
 12:15:03 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
@@ -198,3 +176,25 @@
 18:15:18 INFO    pricewatch: ym_seller: ok 16/16, out_of_stock 0, not_found 0, error 0, captcha 0
 18:15:18 INFO    pricewatch: прогон #39: ok 80/80, out_of_stock 0, not_found 0, error 0, captcha 0
 18:15:18 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
+18:15:18 INFO    pricewatch.status: статус экспортирован в /opt/pricewatch/data/public (80 листингов, 0 проблем)
+18:15:23 INFO    pricewatch.telegram: telegram: 1 сообщ. отправлено через GitHub Actions (rich)
+06:15:03 INFO    pricewatch.registry: Справочники (csv): товаров 24, листингов 80, долей 6
+06:15:03 INFO    pricewatch: ozon_web: коллектора нет — пропуск
+06:15:03 INFO    pricewatch.ozon_seller: старт: листингов 22, регионы ['msk']
+06:15:03 INFO    pricewatch.ozon_seller: готово: 22 наблюдений
+06:15:03 INFO    pricewatch: ozon_seller: ok 22/22, out_of_stock 0, not_found 0, error 0, captcha 0
+06:15:03 INFO    pricewatch.site_web: старт: листингов 18, регионы ['msk']
+06:15:17 INFO    pricewatch.site_web: готово: 18 наблюдений
+06:15:17 INFO    pricewatch: site_web: ok 18/18, out_of_stock 0, not_found 0, error 0, captcha 0
+06:15:17 INFO    pricewatch: site_seller: коллектора нет — пропуск
+06:15:17 INFO    pricewatch: wb_web: выключен в config.yaml — пропуск
+06:15:17 INFO    pricewatch.wb_seller: старт: листингов 24, регионы ['msk']
+06:15:17 INFO    pricewatch.wb_seller: в кабинете вне базы знаний: 4 (Ежовик премиум, Активатор премиум, Шоколад плитки, Какао 500)
+06:15:17 INFO    pricewatch.wb_seller: готово: 24 наблюдений
+06:15:17 INFO    pricewatch: wb_seller: ok 24/24, out_of_stock 0, not_found 0, error 0, captcha 0
+06:15:17 INFO    pricewatch: ym_web: коллектора нет — пропуск
+06:15:17 INFO    pricewatch.ym_seller: старт: листингов 16, регионы ['msk']
+06:15:18 INFO    pricewatch.ym_seller: готово: 16 наблюдений
+06:15:18 INFO    pricewatch: ym_seller: ok 16/16, out_of_stock 0, not_found 0, error 0, captcha 0
+06:15:18 INFO    pricewatch: прогон #40: ok 80/80, out_of_stock 0, not_found 0, error 0, captcha 0
+06:15:18 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)

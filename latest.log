@@ -1,12 +1,3 @@
-18:15:03 INFO    pricewatch.ozon_seller: старт: листингов 22, регионы ['msk']
-18:15:03 INFO    pricewatch.ozon_seller: готово: 22 наблюдений
-18:15:03 INFO    pricewatch: ozon_seller: ok 22/22, out_of_stock 0, not_found 0, error 0, captcha 0
-18:15:03 INFO    pricewatch.site_web: старт: листингов 18, регионы ['msk']
-18:15:21 INFO    pricewatch.site_web: готово: 18 наблюдений
-18:15:21 INFO    pricewatch: site_web: ok 18/18, out_of_stock 0, not_found 0, error 0, captcha 0
-18:15:21 INFO    pricewatch: site_seller: коллектора нет — пропуск
-18:15:21 INFO    pricewatch: wb_web: выключен в config.yaml — пропуск
-18:15:21 INFO    pricewatch.wb_seller: старт: листингов 24, регионы ['msk']
 18:15:21 INFO    pricewatch.wb_seller: в кабинете вне базы знаний: 4 (Ежовик премиум, Активатор премиум, Шоколад плитки, Какао 500)
 18:15:21 INFO    pricewatch.wb_seller: готово: 24 наблюдений
 18:15:21 INFO    pricewatch: wb_seller: ok 24/24, out_of_stock 0, not_found 0, error 0, captcha 0
@@ -198,3 +189,12 @@ error: failed to push some refs to 'github-status:arhangelst-debug/pricewatch-st
 09:15:03 INFO    pricewatch: wb_seller: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
 09:15:03 INFO    pricewatch: прогон #56: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
 09:15:03 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
+09:15:03 INFO    pricewatch.status: статус экспортирован в /opt/pricewatch/data/public (80 листингов, 0 проблем)
+12:15:03 INFO    pricewatch.registry: Справочники (csv): товаров 24, листингов 80, долей 6
+12:15:03 INFO    pricewatch: wb_web: выключен в config.yaml — пропуск
+12:15:03 INFO    pricewatch.wb_seller: старт: листингов 2, регионы ['msk']
+12:15:03 INFO    pricewatch.wb_seller: в кабинете вне базы знаний: 4 (Ежовик премиум, Активатор премиум, Шоколад плитки, Какао 500)
+12:15:03 INFO    pricewatch.wb_seller: готово: 2 наблюдений
+12:15:03 INFO    pricewatch: wb_seller: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
+12:15:03 INFO    pricewatch: прогон #57: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
+12:15:03 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)

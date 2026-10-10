@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T06:15:03Z",
+ "generated_at": "2026-10-10T09:15:03Z",
  "summary": {
   "listings": 80,
   "freshness": {
@@ -10,9 +10,9 @@
   },
   "problems": 0,
   "last_run": {
-   "run_id": 66,
-   "started_at": "2026-10-10T06:15:03Z",
-   "finished_at": "2026-10-10T06:15:03Z",
+   "run_id": 67,
+   "started_at": "2026-10-10T09:15:03Z",
+   "finished_at": "2026-10-10T09:15:03Z",
    "tier": "priority",
    "platforms": "wb",
    "n_ok": 2,
@@ -23,6 +23,18 @@
   }
  },
  "runs": [
+  {
+   "run_id": 67,
+   "started_at": "2026-10-10T09:15:03Z",
+   "finished_at": "2026-10-10T09:15:03Z",
+   "tier": "priority",
+   "platforms": "wb",
+   "n_ok": 2,
+   "n_error": 0,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
   {
    "run_id": 66,
    "started_at": "2026-10-10T06:15:03Z",
@@ -130,18 +142,6 @@
    "n_not_found": 0,
    "n_out_of_stock": 0,
    "n_captcha": 0
-  },
-  {
-   "run_id": 57,
-   "started_at": "2026-10-08T09:15:03Z",
-   "finished_at": "2026-10-08T09:15:03Z",
-   "tier": "priority",
-   "platforms": "wb",
-   "n_ok": 2,
-   "n_error": 0,
-   "n_not_found": 0,
-   "n_out_of_stock": 0,
-   "n_captcha": 0
   }
  ],
  "problems": [],
@@ -188,7 +188,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-10T06:15:03Z",
+   "seller_checked_at": "2026-10-10T09:15:03Z",
    "seller_error": null
   },
   {
@@ -247,7 +247,7 @@
    "web_error": "http 403",
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-10-10T06:15:03Z",
+   "seller_checked_at": "2026-10-10T09:15:03Z",
    "seller_error": null
   },
   {

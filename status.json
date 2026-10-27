@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T06:15:03Z",
+ "generated_at": "2026-10-27T09:15:04Z",
  "summary": {
   "listings": 80,
   "freshness": {
@@ -8,21 +8,33 @@
    "критично": 0,
    "нет данных": 0
   },
-  "problems": 0,
+  "problems": 2,
   "last_run": {
-   "run_id": 159,
-   "started_at": "2026-10-27T06:15:03Z",
-   "finished_at": "2026-10-27T06:15:03Z",
+   "run_id": 160,
+   "started_at": "2026-10-27T09:15:03Z",
+   "finished_at": "2026-10-27T09:15:04Z",
    "tier": "priority",
    "platforms": "wb",
-   "n_ok": 2,
-   "n_error": 0,
+   "n_ok": 0,
+   "n_error": 2,
    "n_not_found": 0,
    "n_out_of_stock": 0,
    "n_captcha": 0
   }
  },
  "runs": [
+  {
+   "run_id": 160,
+   "started_at": "2026-10-27T09:15:03Z",
+   "finished_at": "2026-10-27T09:15:04Z",
+   "tier": "priority",
+   "platforms": "wb",
+   "n_ok": 0,
+   "n_error": 2,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
   {
    "run_id": 159,
    "started_at": "2026-10-27T06:15:03Z",
@@ -130,21 +142,44 @@
    "n_not_found": 0,
    "n_out_of_stock": 0,
    "n_captcha": 0
-  },
-  {
-   "run_id": 150,
-   "started_at": "2026-10-25T12:15:03Z",
-   "finished_at": "2026-10-25T12:15:03Z",
-   "tier": "priority",
-   "platforms": "wb",
-   "n_ok": 2,
-   "n_error": 0,
-   "n_not_found": 0,
-   "n_out_of_stock": 0,
-   "n_captcha": 0
   }
  ],
- "problems": [],
+ "problems": [
+  {
+   "sku": "Родиола флакон",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "474107609",
+   "region": "msk",
+   "web_status": "ok",
+   "web_checked_at": "2026-10-27T05:20:35Z",
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-10-27T09:15:04Z",
+   "seller_error": "collector crashed",
+   "price_main": 3093.0,
+   "price_card": 3000.0,
+   "in_stock": true
+  },
+  {
+   "sku": "SECH64",
+   "platform": "wb",
+   "owner": "ours",
+   "platform_sku": "791055567",
+   "region": "msk",
+   "web_status": "ok",
+   "web_checked_at": "2026-10-27T05:20:58Z",
+   "web_error": null,
+   "freshness": "свежо",
+   "seller_status": "error",
+   "seller_checked_at": "2026-10-27T09:15:04Z",
+   "seller_error": "collector crashed",
+   "price_main": 4440.0,
+   "price_card": 4306.0,
+   "in_stock": true
+  }
+ ],
  "listings": [
   {
    "sku": "Родиола флакон",
@@ -190,9 +225,9 @@
    "web_checked_at": "2026-10-27T05:20:35Z",
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-10-27T06:15:03Z",
-   "seller_error": null,
+   "seller_status": "error",
+   "seller_checked_at": "2026-10-27T09:15:04Z",
+   "seller_error": "collector crashed",
    "price_main": 3093.0,
    "price_card": 3000.0,
    "in_stock": true
@@ -255,9 +290,9 @@
    "web_checked_at": "2026-10-27T05:20:58Z",
    "web_error": null,
    "freshness": "свежо",
-   "seller_status": "ok",
-   "seller_checked_at": "2026-10-27T06:15:03Z",
-   "seller_error": null,
+   "seller_status": "error",
+   "seller_checked_at": "2026-10-27T09:15:04Z",
+   "seller_error": "collector crashed",
    "price_main": 4440.0,
    "price_card": 4306.0,
    "in_stock": true

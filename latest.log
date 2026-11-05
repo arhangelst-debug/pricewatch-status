@@ -1,6 +1,3 @@
-15:15:04 INFO    pricewatch: wb_seller: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
-15:15:04 INFO    pricewatch: прогон #210: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
-15:15:04 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
 15:15:04 INFO    pricewatch.status: статус экспортирован в /opt/pricewatch/data/public (80 листингов, 0 проблем)
 18:15:03 INFO    pricewatch.registry: Справочники (csv): товаров 24, листингов 80, долей 6
 18:15:03 INFO    pricewatch: ozon_web: коллектора нет — пропуск
@@ -198,3 +195,6 @@ RuntimeError: ym offer-mappings: http 500: {"errors":[{"code":"INTERNAL_SERVER_E
 15:15:03 INFO    pricewatch: wb_seller: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
 15:15:03 INFO    pricewatch: прогон #223: ok 2/2, out_of_stock 0, not_found 0, error 0, captcha 0
 15:15:03 WARNING pricewatch: GSHEET_ID / GOOGLE_SA_JSON не заданы — табло в Google не выгружено (см. `pricewatch board`)
+15:15:03 INFO    pricewatch.status: статус экспортирован в /opt/pricewatch/data/public (80 листингов, 16 проблем)
+16:44:27 INFO    pricewatch.registry: Справочники (csv): товаров 24, листингов 80, долей 6
+16:44:27 INFO    pricewatch: import: прогон #224: ok 33/34, out_of_stock 0, not_found 0, error 1, captcha 0

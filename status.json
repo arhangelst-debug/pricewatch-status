@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:33:26Z",
+ "generated_at": "2026-11-23T06:15:03Z",
  "summary": {
   "listings": 80,
   "freshness": {
@@ -10,19 +10,31 @@
   },
   "problems": 5,
   "last_run": {
-   "run_id": 345,
-   "started_at": "2026-11-23T05:33:26Z",
-   "finished_at": "2026-11-23T05:33:26Z",
-   "tier": "browser",
-   "platforms": "ozon,wb,ym",
-   "n_ok": 29,
-   "n_error": 5,
+   "run_id": 346,
+   "started_at": "2026-11-23T06:15:03Z",
+   "finished_at": "2026-11-23T06:15:03Z",
+   "tier": "priority",
+   "platforms": "wb",
+   "n_ok": 2,
+   "n_error": 0,
    "n_not_found": 0,
    "n_out_of_stock": 0,
    "n_captcha": 0
   }
  },
  "runs": [
+  {
+   "run_id": 346,
+   "started_at": "2026-11-23T06:15:03Z",
+   "finished_at": "2026-11-23T06:15:03Z",
+   "tier": "priority",
+   "platforms": "wb",
+   "n_ok": 2,
+   "n_error": 0,
+   "n_not_found": 0,
+   "n_out_of_stock": 0,
+   "n_captcha": 0
+  },
   {
    "run_id": 345,
    "started_at": "2026-11-23T05:33:26Z",
@@ -123,18 +135,6 @@
    "run_id": 337,
    "started_at": "2026-11-22T03:15:03Z",
    "finished_at": "2026-11-22T03:15:18Z",
-   "tier": "all",
-   "platforms": "ozon,site,wb,ym",
-   "n_ok": 75,
-   "n_error": 0,
-   "n_not_found": 5,
-   "n_out_of_stock": 0,
-   "n_captcha": 0
-  },
-  {
-   "run_id": 336,
-   "started_at": "2026-11-21T15:15:03Z",
-   "finished_at": "2026-11-21T15:15:20Z",
    "tier": "all",
    "platforms": "ozon,site,wb,ym",
    "n_ok": 75,
@@ -274,7 +274,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-11-23T03:15:19Z",
+   "seller_checked_at": "2026-11-23T06:15:03Z",
    "seller_error": null,
    "price_main": 3179.0,
    "price_card": null,
@@ -339,7 +339,7 @@
    "web_error": null,
    "freshness": "свежо",
    "seller_status": "ok",
-   "seller_checked_at": "2026-11-23T03:15:19Z",
+   "seller_checked_at": "2026-11-23T06:15:03Z",
    "seller_error": null,
    "price_main": 4557.0,
    "price_card": null,
